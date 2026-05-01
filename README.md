@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandre Rocha Martins</h1>
+<h1 align="center">Hi 👋, I'm Alexandre Arocha Martins</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot</h3>
 
 ---
