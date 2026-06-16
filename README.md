@@ -1,80 +1,29 @@
 <h1 align="center">Hi 👋, I'm Alexandre Arocha Martins</h1>
-
 <h3 align="center">Backend Developer | Java & Spring Boot</h3>
-
----
-
-## 🚀 About Me
-
-💻 Backend Developer focused on building scalable and efficient systems  
-🎓 Student of Systems Development - Senac RS  
-⚙️ Working with Java, Spring Boot, JavaScript, React and Docker  
-📚 Always learning about APIs, Clean Architecture and best practices  
-🎯 Looking for an opportunity as a Technology Intern or Junior Developer  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,docker,html,css,git,github,linux,vscode" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ## 📌 Projects
 
-### 🎫 TicketFlow
-System for managing support tickets and service requests.
+**🎓 Worthit** — Data-driven college affordability & ROI planner. Tells students whether a degree is *financially* worth it, using real public data (U.S. College Scorecard + Brazil's INEP/MEC). Multi-market by design.
 
-### 📄 DocuTrack
-System for document management and organization.
-
-### 💻 Landing Pages
-Front-end projects created to practice HTML, CSS, JavaScript, layout structure and responsiveness.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-arocha&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-arocha&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🎯 Professional Goal
-
-I am looking for an opportunity in the Technology area where I can learn in practice, improve my skills and contribute to real projects.
-
-My focus is to grow as a developer, mainly in backend development with Java and Spring Boot, while also improving my frontend knowledge with JavaScript and React.
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://github.com/Alexandre-arocha">
-  <img src="https://img.shields.io/badge/GitHub-Alexandre--arocha-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/alexandre-arocha-martins-311a97395">
-  <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Arocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:alexandremartinsarocha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alexandremartinsarocha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-⭐ Always learning, practicing and improving as a developer.
+**💻 Landing Pages** — Custom, responsive landing page builds.
