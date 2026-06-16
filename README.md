@@ -28,9 +28,3 @@
 
 **💻 Landing Pages** — Custom, responsive landing page builds.
 
-## 🗺️ Roadmap.dev
-
-- [ ] Go deeper into Go for backend services
-- [ ] Ship Worthit (US + Brazil markets)
-- [ ] Learn cloud & CI/CD (AWS, GitHub Actions)
-- [ ] Contribute to open source
